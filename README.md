@@ -92,13 +92,13 @@ This admin account:
 These credentials are required to access your admin account. Once this step is completed, it means you have successfully registered an account on Orderly and is associated with your wallet address.
 
 
-4. Submit your **wallet public key** securely to the Orderly team.
+4. Submit your **wallet's public address**(not Orderly public key) securely to the Orderly team.
 
 >[!IMPORTANT]  
 >Treat the Private Key like a secret password — never expose it publicly, even the Orderly team.
 It is critical for signing requests and accessing broker functions.
 
-✅ Once your wallet address is received, the Orderly team will complete the final linkage in the backend.
+✅ Once your wallet address is received, the Orderly team will complete the final linkage in the backend. And you should have access to the [broker admin portal](admin.orderly.network) by then.
 
 ---
 
@@ -121,9 +121,6 @@ You can modify your maker/taker fees anytime using your broker admin panel after
 
 ### Can I register multiple admin accounts?
 Currently, each broker ID is tied to a **single admin account** at registration.  
-
-### What happens if I lose my Private Key?
-You will need to request a manual re-registration of your admin account. This process may involve identity verification steps.
 
 ### Can I change from public tier to staking tier later?
 Yes! You can start as a public broker and later stake ORDER tokens to upgrade your tier.
